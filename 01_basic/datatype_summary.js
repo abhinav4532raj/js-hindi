@@ -16,3 +16,10 @@ const heros=["abc","asdf","aman"];//array
 const myfunction=function(){
     console.log("helloworld");
 }
+
+
+
+
+//************************************************ */
+//stack(primitive datatype)duplicate
+//heap(non primitive)reference
