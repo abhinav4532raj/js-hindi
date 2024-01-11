@@ -1,11 +1,15 @@
 const tinderuser ={}
 
-
+ 
 tinderuser.id="123abs"
 tinderuser.name="sammy"
 tinderuser.isloggedin=false
 
-//console.log(tinderuser);
+console.log(tinderuser);
+//
+
+
+
 const regularuser={
     email:"some@gmail.com",
     fullname:{
@@ -16,3 +20,5 @@ const regularuser={
     }
 }
 console.log(regularuser.fullname);
+console.log(Object.keys(regularuser));
+console.log(Object.values(regularuser));

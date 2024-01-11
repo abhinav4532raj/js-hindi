@@ -26,5 +26,20 @@ console.log(jsuser[mysym],typeof [mysym]);
 
 
 //constructor 
-const tinderuser= new Object()
+//const tinderuser= new Object()
 console.log(tinderuser);
+
+///////////
+//const tinderuser ={}
+
+ 
+tinderuser.id="123abs"
+tinderuser.name="sammy"
+tinderuser.isloggedin=false
+
+console.log(tinderuser);
+//
+
+
+
+    
