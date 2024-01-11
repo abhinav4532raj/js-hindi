@@ -23,3 +23,8 @@ console.log(jsuser["email"]);
 console.log(jsuser["fullname"]);
 //console.log(jsuser.mysym,typeof mysym);
 console.log(jsuser[mysym],typeof [mysym]);
+
+
+//constructor 
+const tinderuser= new Object()
+console.log(tinderuser);
