@@ -22,3 +22,15 @@ const regularuser={
 console.log(regularuser.fullname);
 console.log(Object.keys(regularuser));
 console.log(Object.values(regularuser));
+
+//
+
+
+const course={
+    coursename: "java script",
+    price:999,
+
+
+}
+const{coursename}=course
+console.log(coursename);
